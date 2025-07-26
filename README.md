@@ -1,3 +1,3 @@
-# shatoshi-paper
+# satoshi-paper
 
-Original Shatoshi paper
+Original Satoshi paper
